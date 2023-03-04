@@ -5,11 +5,11 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
-<a href="https://profile.codersrank.io/user/sdivcom-dotcom">
+<!-- <a href="https://profile.codersrank.io/user/sdivcom-dotcom">
   <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=~/sdivcom-dotcom&skills=Erlang,CSS,JSON,JavaScript,Python,Shell,C&show-other-skills=true"
 />
-</a>
+</a> -->
 
 <!--
 **sdivcom-dotcom/sdivcom-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
